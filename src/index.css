@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@theme {
+  --font-Poppins: "Poppins", "serif";
+  --font-Nunito: "Nunito Sans", "serif";
+  --font-Nunito-Bengali: "Noto Sans Bengali", "serif";
+
+  --color-black: #000;
+
+  --color-primary-10: #3874FF;
+
+  --color-neutral-10: #444444;
+
+  --color-neutral-light-10: #F8F9FA;
+}
