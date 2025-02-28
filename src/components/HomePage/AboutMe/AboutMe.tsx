@@ -23,14 +23,14 @@ const AboutMe = () => {
                             আমি স্বাস্থ্যসেবা ক্ষেত্রে উন্নয়নের জন্য নিরলসভাবে কাজ করে যাচ্ছি। সর্বোত্তম চিকিৎসা সেবা প্রদানের মাধ্যমে রোগীদের জীবনমান উন্নয়ন করাই আমার প্রধান লক্ষ্য।
                         </p>
 
-                        <a href="http://wa.me/8801722237642" target="_blank" rel="noopener noreferrer">
-                            <button className="bg-primary-10 px-10 py-3 rounded-3xl text-white font-bold text-sm cursor-pointer">
+                        <a href="http://wa.me/8801722237642" target="_blank" rel="noopener noreferrer" className="w-fit">
+                            <button className="bg-primary-10 px-10 py-3 rounded-3xl text-white font-bold text-sm cursor-pointer w-fit">
                                 যোগাযোগ করুন
                             </button>
                         </a>
                     </div>
                     <img
-                        src={IMAGES.doctorImage}
+                        src={IMAGES.aboutUsImg}
                         alt="doctor"
                         className="w-[500px] relative z-10"
                     />

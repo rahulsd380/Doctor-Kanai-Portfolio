@@ -38,7 +38,7 @@ const FeatureCard: React.FC<TFeatureCard> = ({ icon, subtitle, title, descriptio
             }
             {
                 isBtnVisible &&
-                <a href="http://wa.me/8801722237642" target="_blank" rel="noopener noreferrer">
+                <a href="http://wa.me/8801722237642" target="_blank" rel="noopener noreferrer" className="w-fit">
                     <button className="bg-primary-10 px-10 py-3 rounded-3xl text-white font-bold text-sm mt-5 cursor-pointer w-fit">
                         অ্যাপয়েন্টমেন্ট নিন
                     </button>
