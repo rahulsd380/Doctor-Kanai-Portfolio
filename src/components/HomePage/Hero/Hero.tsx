@@ -10,7 +10,7 @@ const Hero = () => {
                 backgroundSize: "cover",
                 backgroundPosition: "center",
                 backgroundRepeat: "no-repeat",
-                height : "510px"
+                height: "510px"
             }}
         >
             {/* Overlay */}
@@ -28,9 +28,12 @@ const Hero = () => {
                         <p className="max-w-[600px] mt-5 text-neutral-10">
                             আমাদের ক্লিনিকে আমরা আপনার মানসিক এবং শারীরিক সুস্থতাকে সমানভাবে গুরুত্ব দিয়ে যত্ন নিই। আমাদের বিশেষজ্ঞ ডাক্তাররা সর্বোত্তম চিকিৎসা সেবার প্রতিশ্রুতি দিয়ে থাকেন।
                         </p>
-                        <button className="bg-primary-10 px-10 py-3 rounded-3xl text-white font-bold text-sm mt-5">
-                            অ্যাপয়েন্টমেন্ট নিন
-                        </button>
+                        <a href="http://wa.me/8801722237642" target="_blank" rel="noopener noreferrer">
+                            <button className="bg-primary-10 px-10 py-3 rounded-3xl text-white font-bold text-sm mt-5 cursor-pointer">
+                                অ্যাপয়েন্টমেন্ট নিন
+                            </button>
+                        </a>
+
                     </div>
 
                     <img
