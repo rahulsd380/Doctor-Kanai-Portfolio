@@ -22,7 +22,7 @@ const Hero = () => {
             <h2 className="text-primary-10 text-lg font-medium">
               সেরা স্বাস্থ্যসেবা আপনার পাশে
             </h2>
-            <h1 className="text-neutral-10 text-5xl font-bold max-w-[600px] leading-[70px] mt-3">
+            <h1 className="text-neutral-10 text-[30px] md:text-5xl font-bold max-w-[600px] leading-[50px] md:leading-[70px] mt-3">
               আপনার সুস্থতা আমাদের অগ্রাধিকার
             </h1>
             <p className="max-w-[600px] mt-5 text-neutral-10">
