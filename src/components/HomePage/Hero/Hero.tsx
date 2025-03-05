@@ -17,7 +17,7 @@ const Hero = () => {
       <div className="absolute inset-0 bg-gray-200 opacity-70"></div>
 
       <Container>
-        <div className="relative flex flex-col md:flex-row items-center gap-10 p-5 lg:p-0">
+        <div className="relative flex flex-col md:flex-row items-center pt-20 lg:p-0 gap-10">
           <div className="text-center md:text-left">
             <h2 className="text-primary-10 text-lg font-medium">
               সেরা স্বাস্থ্যসেবা আপনার পাশে
