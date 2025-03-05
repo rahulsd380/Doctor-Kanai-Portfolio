@@ -99,10 +99,11 @@ const ContactMe = () => {
 
 
                     <div className="w-full flex items-center sm:items-end justify-center sm:justify-end mt-5">
-                        <button type="submit"
-                            className="bg-primary-10 px-10 py-3 rounded-3xl text-white font-bold text-sm mt-5 cursor-pointer">Send
-                            Message
-                        </button>
+                    <a href="http://wa.me/8801722237642" target="_blank" rel="noopener noreferrer" className="w-fit">
+                            <button className="bg-primary-10 px-10 py-3 rounded-3xl text-white font-bold text-sm cursor-pointer w-fit">
+                                যোগাযোগ করুন
+                            </button>
+                        </a>
                     </div>
 
                 </form>
