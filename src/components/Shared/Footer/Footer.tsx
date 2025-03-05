@@ -15,11 +15,11 @@ const Footer = () => {
             icon : ICONS.whatsapp,
             href : "http://wa.me/8801722237642"
         },
-    ]
+    ];
     return (
         <div className="bg-primary-10/10 font-Nunito-Bengali py-10 mt-20">
             <Container>
-                <div className="flex flex-col-reverse md:flex-row items-center justify-between">
+                <div className="flex flex-col-reverse md:flex-row gap-7 md:gap-0 items-center justify-between">
                     <p className="text-neutral-10/80 font-medium">
                         © সকল কপিরাইট ড. কানাই রায় এর দ্বারা সংরক্ষিত
                     </p>

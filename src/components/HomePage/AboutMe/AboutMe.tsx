@@ -3,7 +3,7 @@ import Container from "../../Reusable/Container/Container";
 
 const AboutMe = () => {
     return (
-        <div className="p-5 mt-16 bg-neutral-light-10 font-Nunito-Bengali">
+        <div className="p-5 mt-20 bg-neutral-light-10 font-Nunito-Bengali">
             <Container>
                 <div className="flex flex-col lg:flex-row items-center gap-10">
                     <div className="flex flex-col gap-7 text-neutral-10/80 font-medium">
