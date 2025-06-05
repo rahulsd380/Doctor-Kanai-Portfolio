@@ -6,7 +6,7 @@ import whatsapp from "../assets/icons/whatsapp.svg";
 import facebook from "../assets/icons/facebook.svg";
 import instagram from "../assets/icons/instagram.svg";
 
-import doctorImage from "../assets/images/doc-image.png";
+import doctorImage from "../assets/images/doc-image-2.png";
 import heroBg from "../assets/images/hero-bg.jpg";
 import aboutUsImg from "../assets/images/about-me-img.jpg";
 
