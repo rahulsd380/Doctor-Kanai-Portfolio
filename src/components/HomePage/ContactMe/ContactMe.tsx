@@ -31,14 +31,14 @@ const ContactMe = () => {
                     </div>
 
                     <div className="flex flex-col gap-[20px] text-gray-300">
-                        <p className="flex items-center gap-[8px]">
+                        <a href="tel:+8801722237642" className="flex items-center gap-[8px] hover:underline w-fit">
                             <MdOutlineCall />
                             +8801722237642
-                        </p>
-                        <p className="flex items-center break-all gap-[8px]">
+                        </a>
+                        <a href="mailto:ropak.mph111@gmail.com" className="flex items-center break-all gap-[8px] hover:underline w-fit">
                             <MdOutlineEmail />
-                            drkanai@gmail.com
-                        </p>
+                            ropak.mph111@gmail.com
+                        </a>
                         <p className="flex items-center gap-[8px]">
                             <IoLocationOutline />
                             Kamalapur, Adarsha Sadar, Cumilla

@@ -21,7 +21,7 @@ const Footer = () => {
             <Container>
                 <div className="flex flex-col-reverse md:flex-row gap-7 md:gap-0 items-center justify-between">
                     <p className="text-neutral-10/80 font-medium">
-                        © সকল কপিরাইট ড. কানাই রায় এর দ্বারা সংরক্ষিত
+                        © সকল কপিরাইট ড. রূপক চন্দ্র রায় এর দ্বারা সংরক্ষিত
                     </p>
 
                     <div className="flex items-center gap-7">

@@ -36,7 +36,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <Link to={"/"} className="flex items-center gap-2 text-2xl font-Poppins font-bold">
             <img src={ICONS.doctor} alt="doctor" className="size-8" />
-            ড. কানাই রায়
+            ড. রূপক চন্দ্র রায়
           </Link>
 
           <div className="hidden md:flex items-center gap-5">
